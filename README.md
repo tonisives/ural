@@ -1,2 +1,3 @@
-# ural
-Place to discuss or post issues about Ural.
+# Having issues with Ural?
+
+Just create an Issue, and I will try to respond as soon as possible!
